@@ -5,7 +5,8 @@
 - 📫 How to reach me : Dm me on mail, instagram, facebook or whatever you like
 - ⚡ Fun fact: I have good maths knowledge
 
-<img src="https://raw.githubusercontent.com/MirajB1/MirajB1/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/MirajB1/MirajB1/raw/output/snake.svg?palette=github-dark" alt="Snake animation" />
+
 
 ###
 
