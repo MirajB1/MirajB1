@@ -28,13 +28,14 @@
 
 
 ###
-
-<div align="center">
+====================
+- Profile Viewers
+<div>
   <img src="https://profile-counter.glitch.me/MirajB1/count.svg?"  />
 </div>
 
 ###
-
+=====================
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
