@@ -6,11 +6,6 @@
 - ⚡ Fun fact: I have good maths knowledge
 
 ###
-<img src="https://github.com/MirajB1/MirajB1/raw/output/snake.svg?palette=github-dark" alt="Snake animation" />
-
-
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/miraj-bhattarai-1122b6265/" target="_blank">
