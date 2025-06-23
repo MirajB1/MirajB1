@@ -11,7 +11,7 @@
 - 🤝 Looking to collaborate on **real-world ML/AI projects**
 - 📫 Reach me via: Mail, Instagram, Facebook – your choice!
 - ⚡ Fun fact: I love **math** and turning data into **magic** ✨
-- 👨‍💻 All about me are available at [www.mirajbhattarai.com.np](www.mirajbhattarai.com.np)
+- 👨‍💻 All about me are available at ➡️ [**mirajb1.github.io/Personal_website/**](https://mirajb1.github.io/Personal_website/)
 
 ---
 
