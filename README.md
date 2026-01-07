@@ -27,12 +27,6 @@
 </picture>
 
 ---
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MirajB1&show_icons=true&theme=radical&hide_border=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirajB1&layout=compact&theme=radical&hide_border=false" height="180" />
-</div>
 
 ---
 ### 🔗 Connect with Me
