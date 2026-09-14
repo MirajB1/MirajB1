@@ -4,7 +4,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me.
 
 - 🔍 I’m interested in **AI/ML** and **UI/UX**
 - 🧠 Currently learning **Data Visualization**, **Data Manipulation**, and more
